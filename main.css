@@ -1,0 +1,37 @@
+body {
+	text-align: center;
+	font-family: helvetica;
+}
+
+img {
+	height: 50%;
+	width: 50%;
+}
+
+section {
+	background: azure;
+	margin: 10px;
+	border: 1px solid aquamarine;
+}
+
+h1,h2 {
+	color: forestgreen;
+}
+
+table {
+	margin: auto;
+	margin-bottom: 5px;
+	text-align: center;
+	border: 1px solid palegreen;
+}
+
+td {
+	border: 1px solid palegreen;
+}
+
+#contact_img {
+	height: 15%;
+	width: 15%;
+	border: 3px solid black;
+	border-radius: 100px;
+}
